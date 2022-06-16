@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marissakrantz
-- 👀 I’m interested in front end development and project management
-- 🌱 I’m currently learning full-stack development
+- 👀 I’m interested in Front End Development and Project Management
+- 🌱 I’m currently learning Full-Stack Development
 - 📫 Email me [here](mailto:marissaleak@hotmail.com)
 
 <!---
