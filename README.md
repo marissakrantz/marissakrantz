@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marissakrantz
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Full-Stack Development
+- 👀 I’m interested in Front End Development & UI/UX Design
+- 🌱 I have a certificate Full-Stack Development
 - 📫 Email me [here](mailto:marissaleak@hotmail.com)
 
 <!---
